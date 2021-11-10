@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izolama
 - 👀 I’m interested in web and mobile develop
-- 🌱 I’m currently learning JavaScript,PHP,html,CSS,scratch
+- 🌱 I’m love develop
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me what's app +62 859 3536 7387
 
